@@ -1,0 +1,288 @@
+<!DOCTYPE HTML>
+<html>
+	<!-- test-->
+
+	
+	<head>
+
+			<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+		<title>UberChef</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/chefprofiles.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+	</head>
+	<body class="index">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<header id="header" class="alt">
+					<h1 id="logo"><a href="index.html">UberChef <span></span></a></h1>
+					<nav id="nav">
+						<ul>
+							<li class="current"><a href="index.html">I want to make money</a></li>
+							<li class="submenu">
+							
+								<ul>
+									<li><a href="left-sidebar.html">Left Sidebar</a></li>
+									<li><a href="right-sidebar.html">Right Sidebar</a></li>
+									<li><a href="no-sidebar.html">No Sidebar</a></li>
+									<li><a href="contact.html">Contact</a></li>
+									<li class="submenu">
+										<a href="#">Submenu</a>
+										<ul>
+											<li><a href="#">Dolore Sed</a></li>
+											<li><a href="#">Consequat</a></li>
+											<li><a href="#">Lorem Magna</a></li>
+											<li><a href="#">Sed Magna</a></li>
+											<li><a href="#">Ipsum Nisl</a></li>
+										</ul>
+									</li>
+								</ul>
+							</li>
+							<li><a href="#" class="button special">I want to eat</a></li>
+						</ul>
+					</nav>
+				</header>
+
+			
+				<section id="banner">
+
+				
+				
+					<!-- <div class="inner"> -->
+
+					
+
+						<div class="inner">
+								<header>
+										<h2>Tom Smith  4.5 ★</h2>
+									</header>
+											
+													<div class="row">
+														
+															<div class="col-md-4">
+																<img class="portfolioPic" src="images/chef1.jpg" style="width:250px;height:250px;" />
+																	<br>
+																	Pizza • Winter Park, FL • 4.5 ★</div>
+															<div class="col-md-4"><h2><b>Experience</b></h2>
+														<li>5 years of of experience working at Lazy moon Pizza</li>
+															</div>
+															<div class="col-md-4"><h2><b>About Me</b></h2>
+															<p>Helo i lik wolfs</p>
+															</div>
+															
+
+
+														
+														</div>
+
+														<div class="row">
+																<div class="col-md-4"></div>
+																<div class="col-md-4"><h1><b>Menu</b></h1></div>
+																<div class="col-md-4"></div>
+															</div>
+												
+														<div class="container">
+															<table id="cart" class="table table-hover table-condensed">
+																				<thead>
+																				<tr>
+																					<th style="width:50%">Product</th>
+																					<th style="width:10%">Price</th>
+																					<th style="width:8%">Quantity</th>
+																					<th style="width:22%" class="text-center">Subtotal</th>
+																					<th style="width:10%"></th>
+																				</tr>
+																			</thead>
+																			<tbody>
+																				<tr>
+																					<td data-th="Product">
+																						<div class="row">
+																							<div class="col-sm-2 hidden-xs"></div>
+																							<div class="col-sm-10">
+																								<h4 class="nomargin">Cheese Pizza</h4>
+																								
+																							</div>
+																						</div>
+																					</td>
+																					<td data-th="Price">$9</td>
+																					<td data-th="Quantity">
+																						<input type="number" class="form-control text-center" value="1">
+																					</td>
+																					<td data-th="Subtotal" class="text-center"</td>
+																					<td class="actions" data-th="">
+																						<button class="btn btn-info btn-sm"><i class="fa fa-refresh"></i></button>
+																						<button class="btn btn-danger btn-sm"><i class="fa fa-trash-o"></i></button>								
+																					</td>
+																				</tr>
+																				<tr>	<tr>
+																						<td data-th="Product">
+																							<div class="row">
+																								<div class="col-sm-2 hidden-xs"></div>
+																								<div class="col-sm-10">
+																									<h4 class="nomargin">Mushroom Pizza</h4>
+																									
+																								</div>
+																							</div>
+																						</td>
+																						<td data-th="Price">$11</td>
+																						<td data-th="Quantity">
+																							<input type="number" class="form-control text-center" value="1">
+																						</td>
+																						<td data-th="Subtotal" class="text-center"</td>
+																						<td class="actions" data-th="">
+																							<button class="btn btn-info btn-sm"><i class="fa fa-refresh"></i></button>
+																							<button class="btn btn-danger btn-sm"><i class="fa fa-trash-o"></i></button>								
+																						</td>
+																					</tr>
+																						<td data-th="Product">
+																							<div class="row">
+																								<div class="col-sm-2 hidden-xs"></div>
+																								<div class="col-sm-10">
+																									<h4 class="nomargin">Pepperoni Pineapple Pizza</h4>
+																									
+																								</div>
+																							</div>
+																						</td>
+																						<td data-th="Price">$13</td>
+																						<td data-th="Quantity">
+																							<input type="number" class="form-control text-center" value="1">
+																						</td>
+																						<td data-th="Subtotal" class="text-center"</td>
+																						<td class="actions" data-th="">
+																							<button class="btn btn-info btn-sm"><i class="fa fa-refresh"></i></button>
+																							<button class="btn btn-danger btn-sm"><i class="fa fa-trash-o"></i></button>								
+																						</td>
+																					</tr>
+																			
+																			
+																			
+																			
+																			
+																					<tr>
+																							<td data-th="Product">
+																								<div class="row">
+																									<div class="col-sm-2 hidden-xs"></div>
+																									<div class="col-sm-10">
+																										<h4 class="nomargin">Supreme Pizza</h4>
+																										
+																									</div>
+																								</div>
+																							</td>
+																							<td data-th="Price">$16</td>
+																							<td data-th="Quantity">
+																								<input type="number" class="form-control text-center" value="1">
+																							</td>
+																							<td data-th="Subtotal" class="text-center"</td>
+																							<td class="actions" data-th="">
+																								<button class="btn btn-info btn-sm"><i class="fa fa-refresh"></i></button>
+																								<button class="btn btn-danger btn-sm"><i class="fa fa-trash-o"></i></button>								
+																							</td>
+																						</tr>		</tbody>
+																			<tfoot>
+																				<tr class="visible-xs">
+																					<td class="text-center"><strong>Total</strong></td>
+																				</tr>
+																				<tr>
+																			
+																					<td colspan="2" class="hidden-xs"></td>
+																					<td class="hidden-xs text-center"><strong>Total </strong></td>
+																					<td><a href="#" class="btn btn-success btn-block">Checkout <i class="fa fa-angle-right"></i></a></td>
+																				</tr>
+																			</tfoot>
+																		</table>
+														</div>
+														
+														<div class="row">
+																<div class="col-md-4"></div>
+																<div class="col-md-4"><h1><b><u>Reviews</u></b></h1></div>
+																<div class="col-md-4"></div>
+															</div>
+															<br>
+															<br>
+
+															<div class="row">
+																	<div class="col-xs-6 col-md-4"></div>
+																	<div class="col-xs-6 col-md-4">	<div class="review-block">
+																			<div class="row">
+																				<div class="col-sm-3">
+																					<img src="images/reviewer.jpg" style="width:80px;height:100px" class="img-rounded">
+																					<div class="review-block-name"><a href="#">coolguy90</a></div>
+																					<div class="review-block-date">10/07/17</div>
+																				</div>
+																				<div class="col-sm-9">
+																					<div class="review-block-rate">
+																						<button type="button" class="btn btn-warning btn-xs" aria-label="Left Align">
+																							<span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+																						</button>
+																						<button type="button" class="btn btn-warning btn-xs" aria-label="Left Align">
+																							<span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+																						</button>
+																						<button type="button" class="btn btn-warning btn-xs" aria-label="Left Align">
+																							<span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+																						</button>
+																						<button type="button" class="btn btn-default btn-grey btn-xs" aria-label="Left Align">
+																							<span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+																						</button>
+																						<button type="button" class="btn btn-default btn-grey btn-xs" aria-label="Left Align">
+																							<span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+																						</button>
+																					</div>
+																					<div class="review-block-title">"Loved the pepperoni and pinapple pizza"</div>
+																					<br>
+																					<div class="review-block-description">The pepperoni and pinapple pizza was delicious! People need to give Pineapple on pizza a chance.</div>
+																				</div>
+																			</div>
+																			<hr/>
+																			<div class="row">
+																				
+																			
+																	<div class="col-xs-6 col-md-4"></div>
+																</div>
+														
+															
+
+														
+															
+												
+								
+								
+					
+								
+								
+
+			
+
+		</div>
+
+
+		<!-- <footer id="footer">
+				Follow us on <br></br>
+
+				<ul class="icons">
+					<li><a href="#" class="icon circle fa-twitter"><span class="label">Twitter</span></a></li>
+					<li><a href="#" class="icon circle fa-facebook"><span class="label">Facebook</span></a></li>
+					<li><a href="#" class="icon circle fa-google-plus"><span class="label">Google+</span></a></li>
+					<li><a href="#" class="icon circle fa-github"><span class="label">Github</span></a></li>
+					<li><a href="#" class="icon circle fa-dribbble"><span class="label">Dribbble</span></a></li>
+				</ul>
+
+				<ul class="copyright">
+					<li>&copy; Untitled</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+				</ul>
+
+			</footer> -->
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollgress.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
