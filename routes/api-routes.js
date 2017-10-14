@@ -63,7 +63,7 @@ module.exports = function(app) {
 
 
 
-            // res.json({data: '/members'});
+        //     res.json('/payment');
         // }).catch(function(err) {
         //     console.log(err);
         //     res.json(err);

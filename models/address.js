@@ -34,7 +34,7 @@ module.exports = function(sequelize, DataTypes) {
 
        },
         zip: {
-            type: DataTypes.STRING,
+            type: DataTypes.INTEGER,
             allowNull: true
 
 
@@ -51,7 +51,7 @@ module.exports = function(sequelize, DataTypes) {
        }
         ,
         addressphone: {
-            type: DataTypes.STRING,
+            type: DataTypes.INTEGER,
             allowNull: false
 
 

@@ -54,7 +54,7 @@ module.exports = function(app) {
     });
 
     app.get("/address", isAuthenticated, function(req, res) {
-        res.sendFile(path.join(__dirname, "../public/address.html"));
+        res.sendFile(path.join(__dirname, "../public/Address.html"));
     });
 
     app.get("/payment", isAuthenticated, function(req, res) {
